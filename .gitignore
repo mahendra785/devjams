@@ -37,7 +37,3 @@ next-env.d.ts
 
 # local env
 .env
-
-# testing
-/pages
-
